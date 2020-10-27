@@ -2,12 +2,11 @@
 
 #EXTINF:-1 tvg-chno="1",FOX SPORTS
 
-https://2202.janjua.pw:8088/adfree/foxsports01hdd/playlist.m3u8?vidictid=185616179599&pk=836a5a5ad461c936d33f38d0d2213704ecfe9937acf7f06cfe81d78b7c3752a9&id=100706
+https://e5.habrox.xyz/ingest01/57852.m3u8?sf=Mk1EaVpEUkhkYg==&token=M_iI2HKctLLtmmBkYhFEvw&expires=1603833447&rnd=
 
 #EXTINF:-1 tvg-chno="2",H&H
 
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=ka0-qFAVyDoUjpw3WHkNow&expires=1603754869
-
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=mkk--swTm5Ig1zEDkO_0yw&e=1603840708
 
 #EXTINF:-1 tvg-chno="3",GOLPERU
 
@@ -15,15 +14,19 @@ https://2202.janjua.pw:8088/adfree/golperutv01hd/playlist.m3u8?vidictid=18561459
 
 #EXTINF:-1 tvg-chno="4",ESPN
 
-https://2204.janjua.pw:8088/adfree/espiien01hdd/playlist.m3u8?vidictid=185614433001&pk=836a5a5ad461c936d33f38d0d2213704ecfe9937acf7f06cfe81d78b7c3752a9&id=100775
+https://e10.habrox.xyz/ingestnb4s/espn_sur/f.m3u8
+
+#EXTINF:-1 tvg-chno="12",ESPN 3
+
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/f.m3u8
 
 #EXTINF:-1 tvg-chno="5",hbo
 
-https://ul.cdn946.net:8443/hls/liqi158i6t.m3u8?s=5JXXGrrM0WxZI5ArLH1NjA&e=1603755572
+https://espare.tk/live/hbo_lat.m3u8?token=lE5pXT_J8fGV03509D9Lzw&expires=1603840794
 
 #EXTINF:-1 tvg-chno="6",FOX
 
-https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=dPIu7CAAiuxmrSuwfB8jWg&e=1603755691
+https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=AG2zk-Ys8HeHcYyaGTRb3A&e=1603840935
 
 #EXTINF:-1 tvg-chno="7",Warner Bros
 
@@ -39,8 +42,16 @@ https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=AFpGAbjVyToBthDUfQKvog&e=160375804
 
 #EXTINF:-1 tvg-chno="10",Fox Movies
 
-https://espare.tk/live/fox_movies_lat.m3u8?token=eFiMAQkLY5-fH4Ldbk0qWg&expires=1603758695
+https://espare.tk/live/fox_movies_lat.m3u8?token=hylgpzdRVWBUdQNiro7riw&expires=1603841082
 
-#EXTINF:-1 tvg-chno="11",Fox Family
+#EXTINF:-1 tvg-chno="11",HBO Family
 
-https://espare.tk/live/fox_family_lat.m3u8?token=lBx8ql1dOpoJ7zN-6q7TvQ&expires=1603758902
+https://ul.cdn946.net:8443/hls/rjf73iqinl8lz87.m3u8?s=J4TJjlWzZJDpXf5ziBc_uA&e=1603841235
+
+#EXTINF:-1 tvg-chno="13",Direct TV SPORTS
+
+https://e2.habrox.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=wVsgzgXZYQI6lSkscdhH7A&expires=1603833185&rnd=
+
+#EXTINF:-1 tvg-chno="14",FX
+
+https://ul.cdn946.net:8443/hls/jd4zb3.m3u8?s=tMKnkbY-nVtAD_UtQjsVyw&e=1603840854
